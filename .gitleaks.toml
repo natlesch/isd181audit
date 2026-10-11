@@ -1,0 +1,14 @@
+[extend]
+useDefault = true
+
+# The FY2027 referendum file is a frozen public-page snapshot. These two
+# values are a Squarespace publishable client token and a reCAPTCHA site
+# key already printed on that page. The snapshot is not edited, because
+# its SHA-256 is part of the ledger. Any other secret still fails the scan.
+[allowlist]
+description = "Public client keys in sources/fy2027-referendum.html"
+paths = ['''(?i)\.gitleaks\.toml''']
+regexes = [
+  '''pub77a0ea20d4be2115e98a417826c0cb0c''',
+  '''6LcgqJAUAAAAAJhQs01VmAHQEf3SatmIFQjI7iNP''',
+]
