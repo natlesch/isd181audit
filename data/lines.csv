@@ -1,0 +1,496 @@
+line_id,statement,fiscal_year,basis,fund,measure,category,stage,amount,amount_state,role,headline,source_id,locator,note
+gw-2025-revenue-charges_for_services,gw,2025,government_wide,governmental_activities,revenue,charges_for_services,actual,3812006,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-revenue-operating_grants,gw,2025,government_wide,governmental_activities,revenue,operating_grants,actual,39285984,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-revenue-capital_grants,gw,2025,government_wide,governmental_activities,revenue,capital_grants,actual,498347,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-revenue-property_taxes,gw,2025,government_wide,governmental_activities,revenue,property_taxes,actual,26223202,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-revenue-unrestricted_state_aid,gw,2025,government_wide,governmental_activities,revenue,unrestricted_state_aid,actual,49671531,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-revenue-investment_earnings,gw,2025,government_wide,governmental_activities,revenue,investment_earnings,actual,1811071,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-revenue-other,gw,2025,government_wide,governmental_activities,revenue,other,actual,1909465,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-revenue-total,gw,2025,government_wide,governmental_activities,revenue,total,actual,123211606,value,total,no,audit,audit:md&a-table-a2,
+gw-2024-revenue-charges_for_services,gw,2024,government_wide,governmental_activities,revenue,charges_for_services,actual,3842045,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-revenue-operating_grants,gw,2024,government_wide,governmental_activities,revenue,operating_grants,actual,37997369,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-revenue-capital_grants,gw,2024,government_wide,governmental_activities,revenue,capital_grants,actual,697947,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-revenue-property_taxes,gw,2024,government_wide,governmental_activities,revenue,property_taxes,actual,25199877,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-revenue-unrestricted_state_aid,gw,2024,government_wide,governmental_activities,revenue,unrestricted_state_aid,actual,50109424,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-revenue-investment_earnings,gw,2024,government_wide,governmental_activities,revenue,investment_earnings,actual,1902197,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-revenue-other,gw,2024,government_wide,governmental_activities,revenue,other,actual,2087040,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-revenue-total,gw,2024,government_wide,governmental_activities,revenue,total,actual,121835899,value,total,no,audit,audit:md&a-table-a2,
+gw-2025-expense-administration,gw,2025,government_wide,governmental_activities,expense,administration,actual,3781705,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-district_support,gw,2025,government_wide,governmental_activities,expense,district_support,actual,2796494,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-regular_instruction,gw,2025,government_wide,governmental_activities,expense,regular_instruction,actual,39293787,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-vocational,gw,2025,government_wide,governmental_activities,expense,vocational,actual,1960709,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-special_education,gw,2025,government_wide,governmental_activities,expense,special_education,actual,30056771,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-instructional_support,gw,2025,government_wide,governmental_activities,expense,instructional_support,actual,5489954,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-pupil_support,gw,2025,government_wide,governmental_activities,expense,pupil_support,actual,8311737,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-sites_and_buildings,gw,2025,government_wide,governmental_activities,expense,sites_and_buildings,actual,11351117,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-fiscal,gw,2025,government_wide,governmental_activities,expense,fiscal,actual,541664,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-food_service,gw,2025,government_wide,governmental_activities,expense,food_service,actual,4777982,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-community_service,gw,2025,government_wide,governmental_activities,expense,community_service,actual,4299396,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-interest,gw,2025,government_wide,governmental_activities,expense,interest,actual,6734198,value,component,no,audit,audit:md&a-table-a2,
+gw-2025-expense-total,gw,2025,government_wide,governmental_activities,expense,total,actual,119395514,value,total,no,audit,audit:md&a-table-a2,Accrual expenses. Debt principal is not in this total.
+gw-2024-expense-administration,gw,2024,government_wide,governmental_activities,expense,administration,actual,3304457,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-district_support,gw,2024,government_wide,governmental_activities,expense,district_support,actual,2832445,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-regular_instruction,gw,2024,government_wide,governmental_activities,expense,regular_instruction,actual,35353962,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-vocational,gw,2024,government_wide,governmental_activities,expense,vocational,actual,1532855,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-special_education,gw,2024,government_wide,governmental_activities,expense,special_education,actual,26116010,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-instructional_support,gw,2024,government_wide,governmental_activities,expense,instructional_support,actual,4884491,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-pupil_support,gw,2024,government_wide,governmental_activities,expense,pupil_support,actual,8055232,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-sites_and_buildings,gw,2024,government_wide,governmental_activities,expense,sites_and_buildings,actual,10078829,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-fiscal,gw,2024,government_wide,governmental_activities,expense,fiscal,actual,562056,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-food_service,gw,2024,government_wide,governmental_activities,expense,food_service,actual,4886176,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-community_service,gw,2024,government_wide,governmental_activities,expense,community_service,actual,3965980,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-interest,gw,2024,government_wide,governmental_activities,expense,interest,actual,7030270,value,component,no,audit,audit:md&a-table-a2,
+gw-2024-expense-total,gw,2024,government_wide,governmental_activities,expense,total,actual,108602763,value,total,no,audit,audit:md&a-table-a2,Accrual expenses. Debt principal is not in this total.
+gw-2025-increase,gw,2025,government_wide,governmental_activities,increase_in_net_position,total,actual,3816092,value,total,no,audit,audit:md&a-table-a2,
+gw-2024-increase,gw,2024,government_wide,governmental_activities,increase_in_net_position,total,actual,13233136,value,total,no,audit,audit:md&a-table-a2,
+gw-2025-principle,gw,2025,government_wide,governmental_activities,accounting_principle_change,compensated_absences,actual,-3140589,value,total,no,audit,audit:md&a-table-a2,Beginning net position reduced. Prior-year column is not restated.
+gw-2025-np-begin,gw,2025,government_wide,governmental_activities,net_position_beginning,as_reported,actual,21783798,value,total,no,audit,audit:md&a-table-a2,
+gw-2025-np-restated,gw,2025,government_wide,governmental_activities,net_position_beginning,as_restated,actual,18643209,value,total,no,audit,audit:md&a-table-a2,
+gw-2024-np-begin,gw,2024,government_wide,governmental_activities,net_position_beginning,as_reported,actual,8550662,value,total,no,audit,audit:md&a-table-a2,
+gw-2025-np-end,gw,2025,government_wide,governmental_activities,net_position_ending,total,actual,22459301,value,total,no,audit,audit:md&a-table-a2,
+gw-2024-np-end,gw,2024,government_wide,governmental_activities,net_position_ending,total,actual,21783798,value,total,no,audit,audit:md&a-table-a2,Not restated for the compensated-absences accounting change.
+gw-2025-np-net_investment_in_capital,gw,2025,government_wide,governmental_activities,net_position_ending,net_investment_in_capital,actual,40456957,value,component,no,audit,audit:md&a-net-position,Unrestricted is negative and is not spendable cash.
+gw-2025-np-restricted,gw,2025,government_wide,governmental_activities,net_position_ending,restricted,actual,14944758,value,component,no,audit,audit:md&a-net-position,Unrestricted is negative and is not spendable cash.
+gw-2025-np-unrestricted,gw,2025,government_wide,governmental_activities,net_position_ending,unrestricted,actual,-32942414,value,component,no,audit,audit:md&a-net-position,Unrestricted is negative and is not spendable cash.
+gov-2025-general-revenue,gov_funds,2025,governmental_fund,general,revenue,total,actual,95288614,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-general-expenditure,gov_funds,2025,governmental_fund,general,expenditure,total,actual,95885602,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-general-other_financing,gov_funds,2025,governmental_fund,general,other_financing,total,actual,427707,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-general-beginning_balance,gov_funds,2025,governmental_fund,general,beginning_balance,total,actual,22379183,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-general-ending_balance,gov_funds,2025,governmental_fund,general,ending_balance,total,actual,22209902,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-general-net_change,gov_funds,2025,governmental_fund,general,net_change,total,actual,-169281,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-general-excess,gov_funds,2025,governmental_fund,general,excess,total,actual,-596988,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-food-revenue,gov_funds,2025,governmental_fund,food,revenue,total,actual,4816894,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-food-expenditure,gov_funds,2025,governmental_fund,food,expenditure,total,actual,4852316,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-food-other_financing,gov_funds,2025,governmental_fund,food,other_financing,total,actual,0,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-food-beginning_balance,gov_funds,2025,governmental_fund,food,beginning_balance,total,actual,1186952,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-food-ending_balance,gov_funds,2025,governmental_fund,food,ending_balance,total,actual,1151530,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-food-net_change,gov_funds,2025,governmental_fund,food,net_change,total,actual,-35422,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-food-excess,gov_funds,2025,governmental_fund,food,excess,total,actual,-35422,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-community-revenue,gov_funds,2025,governmental_fund,community,revenue,total,actual,4150196,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-community-expenditure,gov_funds,2025,governmental_fund,community,expenditure,total,actual,4070308,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-community-other_financing,gov_funds,2025,governmental_fund,community,other_financing,total,actual,0,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-community-beginning_balance,gov_funds,2025,governmental_fund,community,beginning_balance,total,actual,1648678,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-community-ending_balance,gov_funds,2025,governmental_fund,community,ending_balance,total,actual,1728566,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-community-net_change,gov_funds,2025,governmental_fund,community,net_change,total,actual,79888,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-community-excess,gov_funds,2025,governmental_fund,community,excess,total,actual,79888,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-building-revenue,gov_funds,2025,governmental_fund,building,revenue,total,actual,162593,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-building-expenditure,gov_funds,2025,governmental_fund,building,expenditure,total,actual,1327868,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-building-other_financing,gov_funds,2025,governmental_fund,building,other_financing,total,actual,0,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-building-beginning_balance,gov_funds,2025,governmental_fund,building,beginning_balance,total,actual,4069837,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-building-ending_balance,gov_funds,2025,governmental_fund,building,ending_balance,total,actual,2904562,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-building-net_change,gov_funds,2025,governmental_fund,building,net_change,total,actual,-1165275,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-building-excess,gov_funds,2025,governmental_fund,building,excess,total,actual,-1165275,value,fund,yes,audit,audit:governmental-funds,
+gov-2025-debt-revenue,gov_funds,2025,governmental_fund,debt,revenue,total,actual,17204495,value,fund,yes,audit,audit:governmental-funds,Includes OPEB debt service. Statutory form splits that fund out.
+gov-2025-debt-expenditure,gov_funds,2025,governmental_fund,debt,expenditure,total,actual,16379226,value,fund,yes,audit,audit:governmental-funds,Includes OPEB debt service. Statutory form splits that fund out.
+gov-2025-debt-other_financing,gov_funds,2025,governmental_fund,debt,other_financing,total,actual,0,value,fund,yes,audit,audit:governmental-funds,Includes OPEB debt service. Statutory form splits that fund out.
+gov-2025-debt-beginning_balance,gov_funds,2025,governmental_fund,debt,beginning_balance,total,actual,3815144,value,fund,yes,audit,audit:governmental-funds,Includes OPEB debt service. Statutory form splits that fund out.
+gov-2025-debt-ending_balance,gov_funds,2025,governmental_fund,debt,ending_balance,total,actual,4640413,value,fund,yes,audit,audit:governmental-funds,Includes OPEB debt service. Statutory form splits that fund out.
+gov-2025-debt-net_change,gov_funds,2025,governmental_fund,debt,net_change,total,actual,825269,value,fund,yes,audit,audit:governmental-funds,Includes OPEB debt service. Statutory form splits that fund out.
+gov-2025-debt-excess,gov_funds,2025,governmental_fund,debt,excess,total,actual,825269,value,fund,yes,audit,audit:governmental-funds,Includes OPEB debt service. Statutory form splits that fund out.
+gov-2025-total-revenue,gov_funds,2025,governmental_fund,all,revenue,total,actual,121622792,value,total,no,audit,audit:governmental-funds,
+gov-2025-total-expenditure,gov_funds,2025,governmental_fund,all,expenditure,total,actual,122515320,value,total,no,audit,audit:governmental-funds,
+gov-2025-total-other_financing,gov_funds,2025,governmental_fund,all,other_financing,total,actual,427707,value,total,no,audit,audit:governmental-funds,
+gov-2025-total-beginning_balance,gov_funds,2025,governmental_fund,all,beginning_balance,total,actual,33099794,value,total,no,audit,audit:governmental-funds,
+gov-2025-total-ending_balance,gov_funds,2025,governmental_fund,all,ending_balance,total,actual,32634973,value,total,no,audit,audit:governmental-funds,
+gov-2025-total-net_change,gov_funds,2025,governmental_fund,all,net_change,total,actual,-464821,value,total,no,audit,audit:governmental-funds,
+gov-2025-total-excess,gov_funds,2025,governmental_fund,all,excess,total,actual,-892528,value,total,no,audit,audit:governmental-funds,
+gov-2024-total-revenue,gov_funds,2024,governmental_fund,all,revenue,total,actual,122048819,value,total,yes,audit,audit:governmental-funds,Summarized comparative column. No fund split in that column.
+gov-2024-total-expenditure,gov_funds,2024,governmental_fund,all,expenditure,total,actual,120712127,value,total,yes,audit,audit:governmental-funds,Summarized comparative column. No fund split in that column.
+gov-2024-total-other_financing,gov_funds,2024,governmental_fund,all,other_financing,total,actual,243483,value,total,yes,audit,audit:governmental-funds,Summarized comparative column. No fund split in that column.
+gov-2024-total-beginning_balance,gov_funds,2024,governmental_fund,all,beginning_balance,total,actual,31519619,value,total,yes,audit,audit:governmental-funds,Summarized comparative column. No fund split in that column.
+gov-2024-total-ending_balance,gov_funds,2024,governmental_fund,all,ending_balance,total,actual,33099794,value,total,yes,audit,audit:governmental-funds,Summarized comparative column. No fund split in that column.
+gov-2024-total-net_change,gov_funds,2024,governmental_fund,all,net_change,total,actual,1580175,value,total,yes,audit,audit:governmental-funds,Summarized comparative column. No fund split in that column.
+gov-2024-total-excess,gov_funds,2024,governmental_fund,all,excess,total,actual,1336692,value,total,yes,audit,audit:governmental-funds,Summarized comparative column. No fund split in that column.
+gov-2025-all-revenue-property_taxes,gov_funds,2025,governmental_fund,all,revenue,property_taxes,actual,26117044,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-revenue-investment_earnings,gov_funds,2025,governmental_fund,all,revenue,investment_earnings,actual,1715448,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-revenue-other,gov_funds,2025,governmental_fund,all,revenue,other,actual,5544793,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-revenue-state,gov_funds,2025,governmental_fund,all,revenue,state,actual,82480491,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-revenue-federal,gov_funds,2025,governmental_fund,all,revenue,federal,actual,5765016,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-revenue-property_taxes,gov_funds,2024,governmental_fund,all,revenue,property_taxes,actual,25132323,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-revenue-investment_earnings,gov_funds,2024,governmental_fund,all,revenue,investment_earnings,actual,1832375,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-revenue-other,gov_funds,2024,governmental_fund,all,revenue,other,actual,5804911,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-revenue-state,gov_funds,2024,governmental_fund,all,revenue,state,actual,80409746,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-revenue-federal,gov_funds,2024,governmental_fund,all,revenue,federal,actual,8869464,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-administration,gov_funds,2025,governmental_fund,all,expenditure,administration,actual,3495865,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-district_support,gov_funds,2025,governmental_fund,all,expenditure,district_support,actual,2715457,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-regular_instruction,gov_funds,2025,governmental_fund,all,expenditure,regular_instruction,actual,36036654,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-vocational,gov_funds,2025,governmental_fund,all,expenditure,vocational,actual,1645808,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-special_education,gov_funds,2025,governmental_fund,all,expenditure,special_education,actual,26570297,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-instructional_support,gov_funds,2025,governmental_fund,all,expenditure,instructional_support,actual,4737508,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-pupil_support,gov_funds,2025,governmental_fund,all,expenditure,pupil_support,actual,7690291,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-sites_and_buildings,gov_funds,2025,governmental_fund,all,expenditure,sites_and_buildings,actual,10527339,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-fiscal,gov_funds,2025,governmental_fund,all,expenditure,fiscal,actual,541664,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-food_service,gov_funds,2025,governmental_fund,all,expenditure,food_service,actual,4852316,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-community_service,gov_funds,2025,governmental_fund,all,expenditure,community_service,actual,4053537,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-capital_outlay,gov_funds,2025,governmental_fund,all,expenditure,capital_outlay,actual,1425375,value,component,no,audit,audit:governmental-funds,
+gov-2025-all-expenditure-debt_principal,gov_funds,2025,governmental_fund,all,expenditure,debt_principal,actual,9751536,value,component,no,audit,audit:governmental-funds,Fund-basis principal. Not an expense in the government-wide statement.
+gov-2025-all-expenditure-debt_interest,gov_funds,2025,governmental_fund,all,expenditure,debt_interest,actual,8471673,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-administration,gov_funds,2024,governmental_fund,all,expenditure,administration,actual,3365073,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-district_support,gov_funds,2024,governmental_fund,all,expenditure,district_support,actual,2673788,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-regular_instruction,gov_funds,2024,governmental_fund,all,expenditure,regular_instruction,actual,36209857,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-vocational,gov_funds,2024,governmental_fund,all,expenditure,vocational,actual,1434569,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-special_education,gov_funds,2024,governmental_fund,all,expenditure,special_education,actual,25678480,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-instructional_support,gov_funds,2024,governmental_fund,all,expenditure,instructional_support,actual,4740530,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-pupil_support,gov_funds,2024,governmental_fund,all,expenditure,pupil_support,actual,7683443,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-sites_and_buildings,gov_funds,2024,governmental_fund,all,expenditure,sites_and_buildings,actual,9522229,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-fiscal,gov_funds,2024,governmental_fund,all,expenditure,fiscal,actual,562056,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-food_service,gov_funds,2024,governmental_fund,all,expenditure,food_service,actual,4901095,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-community_service,gov_funds,2024,governmental_fund,all,expenditure,community_service,actual,3865634,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-capital_outlay,gov_funds,2024,governmental_fund,all,expenditure,capital_outlay,actual,2227604,value,component,no,audit,audit:governmental-funds,
+gov-2024-all-expenditure-debt_principal,gov_funds,2024,governmental_fund,all,expenditure,debt_principal,actual,9043243,value,component,no,audit,audit:governmental-funds,Fund-basis principal. Not an expense in the government-wide statement.
+gov-2024-all-expenditure-debt_interest,gov_funds,2024,governmental_fund,all,expenditure,debt_interest,actual,8804526,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-administration,gov_funds,2025,governmental_fund,general,expenditure,administration,actual,3495865,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-district_support,gov_funds,2025,governmental_fund,general,expenditure,district_support,actual,2715457,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-regular_instruction,gov_funds,2025,governmental_fund,general,expenditure,regular_instruction,actual,36036654,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-vocational,gov_funds,2025,governmental_fund,general,expenditure,vocational,actual,1645808,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-special_education,gov_funds,2025,governmental_fund,general,expenditure,special_education,actual,26570297,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-instructional_support,gov_funds,2025,governmental_fund,general,expenditure,instructional_support,actual,4737508,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-pupil_support,gov_funds,2025,governmental_fund,general,expenditure,pupil_support,actual,7690291,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-sites_and_buildings,gov_funds,2025,governmental_fund,general,expenditure,sites_and_buildings,actual,9716466,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-fiscal,gov_funds,2025,governmental_fund,general,expenditure,fiscal,actual,541664,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-capital_outlay,gov_funds,2025,governmental_fund,general,expenditure,capital_outlay,actual,891609,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-debt_principal,gov_funds,2025,governmental_fund,general,expenditure,debt_principal,actual,1491536,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-expenditure-debt_interest,gov_funds,2025,governmental_fund,general,expenditure,debt_interest,actual,352447,value,component,no,audit,audit:governmental-funds,
+gov-2025-general-ofs-lease_liability,gov_funds,2025,governmental_fund,general,other_financing,lease_liability,actual,397010,value,component,no,audit,audit:governmental-funds,Not revenue. Shown separate from income.
+gov-2025-general-ofs-insurance_proceeds,gov_funds,2025,governmental_fund,general,other_financing,insurance_proceeds,actual,19810,value,component,no,audit,audit:governmental-funds,Not revenue. Shown separate from income.
+gov-2025-general-ofs-sale_of_capital_assets,gov_funds,2025,governmental_fund,general,other_financing,sale_of_capital_assets,actual,10887,value,component,no,audit,audit:governmental-funds,Not revenue. Shown separate from income.
+gov-2025-general-unassigned,gov_funds,2025,governmental_fund,general,ending_balance,unassigned,actual,14159562,value,component,no,audit,audit:ufars-compliance,"Part of the general fund ending balance, not an extra balance. UFARS unassigned is 14159564."
+gfsrc-2025-property_taxes,gf_sources,2025,governmental_fund,general,revenue,property_taxes,actual,9392391,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2025-investment_earnings,gf_sources,2025,governmental_fund,general,revenue,investment_earnings,actual,1005730,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2025-other,gf_sources,2025,governmental_fund,general,revenue,other,actual,2819037,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2025-state,gf_sources,2025,governmental_fund,general,revenue,state,actual,79134309,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2025-federal,gf_sources,2025,governmental_fund,general,revenue,federal,actual,2937147,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2025-total,gf_sources,2025,governmental_fund,general,revenue,total,actual,95288614,value,total,no,audit,audit:md&a-table-a5,
+gfsrc-2024-property_taxes,gf_sources,2024,governmental_fund,general,revenue,property_taxes,actual,9603237,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2024-investment_earnings,gf_sources,2024,governmental_fund,general,revenue,investment_earnings,actual,1015262,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2024-other,gf_sources,2024,governmental_fund,general,revenue,other,actual,3030247,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2024-state,gf_sources,2024,governmental_fund,general,revenue,state,actual,77065487,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2024-federal,gf_sources,2024,governmental_fund,general,revenue,federal,actual,5998877,value,component,no,audit,audit:md&a-table-a5,
+gfsrc-2024-total,gf_sources,2024,governmental_fund,general,revenue,total,actual,96713110,value,total,no,audit,audit:md&a-table-a5,
+gfobj-2025-salaries,gf_objects,2025,governmental_fund,general,expenditure,salaries,actual,53148245,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2025-benefits,gf_objects,2025,governmental_fund,general,expenditure,benefits,actual,22634376,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2025-purchased_services,gf_objects,2025,governmental_fund,general,expenditure,purchased_services,actual,13720143,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2025-supplies,gf_objects,2025,governmental_fund,general,expenditure,supplies,actual,3435298,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2025-capital,gf_objects,2025,governmental_fund,general,expenditure,capital,actual,891609,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2025-other,gf_objects,2025,governmental_fund,general,expenditure,other,actual,2055931,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2025-total,gf_objects,2025,governmental_fund,general,expenditure,total,actual,95885602,value,total,no,audit,audit:md&a-table-a6,
+gfobj-2024-salaries,gf_objects,2024,governmental_fund,general,expenditure,salaries,actual,52848528,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2024-benefits,gf_objects,2024,governmental_fund,general,expenditure,benefits,actual,22099874,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2024-purchased_services,gf_objects,2024,governmental_fund,general,expenditure,purchased_services,actual,13047159,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2024-supplies,gf_objects,2024,governmental_fund,general,expenditure,supplies,actual,3114151,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2024-capital,gf_objects,2024,governmental_fund,general,expenditure,capital,actual,563099,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2024-other,gf_objects,2024,governmental_fund,general,expenditure,other,actual,2095062,value,component,no,audit,audit:md&a-table-a6,
+gfobj-2024-total,gf_objects,2024,governmental_fund,general,expenditure,total,actual,93767873,value,total,no,audit,audit:md&a-table-a6,
+gfrsi-revenue-property_taxes-original,gf_rsi,2025,governmental_fund,general,revenue,property_taxes,original,9433069,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-property_taxes-final,gf_rsi,2025,governmental_fund,general,revenue,property_taxes,final,9433069,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-property_taxes-actual,gf_rsi,2025,governmental_fund,general,revenue,property_taxes,actual,9392391,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-investment_earnings-original,gf_rsi,2025,governmental_fund,general,revenue,investment_earnings,original,500000,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-investment_earnings-final,gf_rsi,2025,governmental_fund,general,revenue,investment_earnings,final,675000,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-investment_earnings-actual,gf_rsi,2025,governmental_fund,general,revenue,investment_earnings,actual,1005730,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-other-original,gf_rsi,2025,governmental_fund,general,revenue,other,original,2182417,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-other-final,gf_rsi,2025,governmental_fund,general,revenue,other,final,2202695,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-other-actual,gf_rsi,2025,governmental_fund,general,revenue,other,actual,2819037,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-state-original,gf_rsi,2025,governmental_fund,general,revenue,state,original,77703208,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-state-final,gf_rsi,2025,governmental_fund,general,revenue,state,final,78748027,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-state-actual,gf_rsi,2025,governmental_fund,general,revenue,state,actual,79134309,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-federal-original,gf_rsi,2025,governmental_fund,general,revenue,federal,original,2368573,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-federal-final,gf_rsi,2025,governmental_fund,general,revenue,federal,final,3004619,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-federal-actual,gf_rsi,2025,governmental_fund,general,revenue,federal,actual,2937147,value,component,no,audit,audit:rsi-general,
+gfrsi-revenue-total-original,gf_rsi,2025,governmental_fund,general,revenue,total,original,92187267,value,total,no,audit,audit:rsi-general,
+gfrsi-revenue-total-final,gf_rsi,2025,governmental_fund,general,revenue,total,final,94063410,value,total,no,audit,audit:rsi-general,
+gfrsi-revenue-total-actual,gf_rsi,2025,governmental_fund,general,revenue,total,actual,95288614,value,total,no,audit,audit:rsi-general,
+gfrsi-expenditure-administration-original,gf_rsi,2025,governmental_fund,general,expenditure,administration,original,3487542,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-administration-final,gf_rsi,2025,governmental_fund,general,expenditure,administration,final,3538755,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-administration-actual,gf_rsi,2025,governmental_fund,general,expenditure,administration,actual,3495865,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-district_support-original,gf_rsi,2025,governmental_fund,general,expenditure,district_support,original,2846096,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-district_support-final,gf_rsi,2025,governmental_fund,general,expenditure,district_support,final,2914460,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-district_support-actual,gf_rsi,2025,governmental_fund,general,expenditure,district_support,actual,2715457,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-regular_instruction-original,gf_rsi,2025,governmental_fund,general,expenditure,regular_instruction,original,36917859,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-regular_instruction-final,gf_rsi,2025,governmental_fund,general,expenditure,regular_instruction,final,37291113,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-regular_instruction-actual,gf_rsi,2025,governmental_fund,general,expenditure,regular_instruction,actual,36036654,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-vocational-original,gf_rsi,2025,governmental_fund,general,expenditure,vocational,original,1507647,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-vocational-final,gf_rsi,2025,governmental_fund,general,expenditure,vocational,final,1429542,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-vocational-actual,gf_rsi,2025,governmental_fund,general,expenditure,vocational,actual,1645808,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-special_education-original,gf_rsi,2025,governmental_fund,general,expenditure,special_education,original,27061253,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-special_education-final,gf_rsi,2025,governmental_fund,general,expenditure,special_education,final,27013368,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-special_education-actual,gf_rsi,2025,governmental_fund,general,expenditure,special_education,actual,26570297,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-instructional_support-original,gf_rsi,2025,governmental_fund,general,expenditure,instructional_support,original,4631399,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-instructional_support-final,gf_rsi,2025,governmental_fund,general,expenditure,instructional_support,final,5736493,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-instructional_support-actual,gf_rsi,2025,governmental_fund,general,expenditure,instructional_support,actual,4737508,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-pupil_support-original,gf_rsi,2025,governmental_fund,general,expenditure,pupil_support,original,7783439,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-pupil_support-final,gf_rsi,2025,governmental_fund,general,expenditure,pupil_support,final,7966631,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-pupil_support-actual,gf_rsi,2025,governmental_fund,general,expenditure,pupil_support,actual,7690291,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-sites_and_buildings-original,gf_rsi,2025,governmental_fund,general,expenditure,sites_and_buildings,original,9638297,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-sites_and_buildings-final,gf_rsi,2025,governmental_fund,general,expenditure,sites_and_buildings,final,9592087,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-sites_and_buildings-actual,gf_rsi,2025,governmental_fund,general,expenditure,sites_and_buildings,actual,9716466,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-fiscal-original,gf_rsi,2025,governmental_fund,general,expenditure,fiscal,original,550000,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-fiscal-final,gf_rsi,2025,governmental_fund,general,expenditure,fiscal,final,550000,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-fiscal-actual,gf_rsi,2025,governmental_fund,general,expenditure,fiscal,actual,541664,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-capital_outlay-original,gf_rsi,2025,governmental_fund,general,expenditure,capital_outlay,original,390000,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-capital_outlay-final,gf_rsi,2025,governmental_fund,general,expenditure,capital_outlay,final,390000,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-capital_outlay-actual,gf_rsi,2025,governmental_fund,general,expenditure,capital_outlay,actual,891609,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-debt_principal-original,gf_rsi,2025,governmental_fund,general,expenditure,debt_principal,original,1502657,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-debt_principal-final,gf_rsi,2025,governmental_fund,general,expenditure,debt_principal,final,1491536,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-debt_principal-actual,gf_rsi,2025,governmental_fund,general,expenditure,debt_principal,actual,1491536,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-debt_interest-original,gf_rsi,2025,governmental_fund,general,expenditure,debt_interest,original,341327,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-debt_interest-final,gf_rsi,2025,governmental_fund,general,expenditure,debt_interest,final,352448,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-debt_interest-actual,gf_rsi,2025,governmental_fund,general,expenditure,debt_interest,actual,352447,value,component,no,audit,audit:rsi-general,
+gfrsi-expenditure-total-original,gf_rsi,2025,governmental_fund,general,expenditure,total,original,96657516,value,total,no,audit,audit:rsi-general,
+gfrsi-expenditure-total-final,gf_rsi,2025,governmental_fund,general,expenditure,total,final,98266433,value,total,no,audit,audit:rsi-general,
+gfrsi-expenditure-total-actual,gf_rsi,2025,governmental_fund,general,expenditure,total,actual,95885602,value,total,no,audit,audit:rsi-general,
+gfrsi-excess-original,gf_rsi,2025,governmental_fund,general,excess,total,original,-4470249,value,total,no,audit,audit:rsi-general,Final budget expected expenditures to exceed revenue by 4203023. Actual gap was 596988.
+gfrsi-excess-final,gf_rsi,2025,governmental_fund,general,excess,total,final,-4203023,value,total,no,audit,audit:rsi-general,Final budget expected expenditures to exceed revenue by 4203023. Actual gap was 596988.
+gfrsi-excess-actual,gf_rsi,2025,governmental_fund,general,excess,total,actual,-596988,value,total,no,audit,audit:rsi-general,Final budget expected expenditures to exceed revenue by 4203023. Actual gap was 596988.
+gfrsi-ofs-original,gf_rsi,2025,governmental_fund,general,other_financing,total,original,0,value,total,no,audit,audit:rsi-general,
+gfrsi-ofs-final,gf_rsi,2025,governmental_fund,general,other_financing,total,final,0,value,total,no,audit,audit:rsi-general,
+gfrsi-ofs-actual,gf_rsi,2025,governmental_fund,general,other_financing,total,actual,427707,value,total,no,audit,audit:rsi-general,
+gfrsi-net-original,gf_rsi,2025,governmental_fund,general,net_change,total,original,-4470249,value,total,no,audit,audit:rsi-general,
+gfrsi-net-final,gf_rsi,2025,governmental_fund,general,net_change,total,final,-4203023,value,total,no,audit,audit:rsi-general,
+gfrsi-net-actual,gf_rsi,2025,governmental_fund,general,net_change,total,actual,-169281,value,total,no,audit,audit:rsi-general,
+foodrsi-revenue-investment_earnings-original,food_rsi,2025,governmental_fund,food,revenue,investment_earnings,original,15000,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-investment_earnings-final,food_rsi,2025,governmental_fund,food,revenue,investment_earnings,final,20000,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-investment_earnings-actual,food_rsi,2025,governmental_fund,food,revenue,investment_earnings,actual,33293,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-other-original,food_rsi,2025,governmental_fund,food,revenue,other,original,363000,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-other-final,food_rsi,2025,governmental_fund,food,revenue,other,final,333000,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-other-actual,food_rsi,2025,governmental_fund,food,revenue,other,actual,347143,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-state-original,food_rsi,2025,governmental_fund,food,revenue,state,original,1255000,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-state-final,food_rsi,2025,governmental_fund,food,revenue,state,final,1700000,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-state-actual,food_rsi,2025,governmental_fund,food,revenue,state,actual,1633373,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-federal-original,food_rsi,2025,governmental_fund,food,revenue,federal,original,2795000,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-federal-final,food_rsi,2025,governmental_fund,food,revenue,federal,final,2732500,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-federal-actual,food_rsi,2025,governmental_fund,food,revenue,federal,actual,2803085,value,component,no,audit,audit:rsi-food,
+foodrsi-revenue-total-original,food_rsi,2025,governmental_fund,food,revenue,total,original,4428000,value,total,no,audit,audit:rsi-food,
+foodrsi-revenue-total-final,food_rsi,2025,governmental_fund,food,revenue,total,final,4785500,value,total,no,audit,audit:rsi-food,
+foodrsi-revenue-total-actual,food_rsi,2025,governmental_fund,food,revenue,total,actual,4816894,value,total,no,audit,audit:rsi-food,
+foodrsi-expenditure-total-original,food_rsi,2025,governmental_fund,food,expenditure,total,original,4754415,value,total,no,audit,audit:rsi-food,
+foodrsi-expenditure-total-final,food_rsi,2025,governmental_fund,food,expenditure,total,final,5089834,value,total,no,audit,audit:rsi-food,
+foodrsi-expenditure-total-actual,food_rsi,2025,governmental_fund,food,expenditure,total,actual,4852316,value,total,no,audit,audit:rsi-food,
+commrsi-revenue-property_taxes-original,community_rsi,2025,governmental_fund,community,revenue,property_taxes,original,590830,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-property_taxes-final,community_rsi,2025,governmental_fund,community,revenue,property_taxes,final,590830,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-property_taxes-actual,community_rsi,2025,governmental_fund,community,revenue,property_taxes,actual,586008,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-investment_earnings-original,community_rsi,2025,governmental_fund,community,revenue,investment_earnings,original,60000,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-investment_earnings-final,community_rsi,2025,governmental_fund,community,revenue,investment_earnings,final,75000,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-investment_earnings-actual,community_rsi,2025,governmental_fund,community,revenue,investment_earnings,actual,100895,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-other-original,community_rsi,2025,governmental_fund,community,revenue,other,original,2147025,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-other-final,community_rsi,2025,governmental_fund,community,revenue,other,final,2012025,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-other-actual,community_rsi,2025,governmental_fund,community,revenue,other,actual,2364613,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-state-original,community_rsi,2025,governmental_fund,community,revenue,state,original,890067,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-state-final,community_rsi,2025,governmental_fund,community,revenue,state,final,1077448,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-state-actual,community_rsi,2025,governmental_fund,community,revenue,state,actual,1073896,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-federal-original,community_rsi,2025,governmental_fund,community,revenue,federal,original,187591,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-federal-final,community_rsi,2025,governmental_fund,community,revenue,federal,final,24960,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-federal-actual,community_rsi,2025,governmental_fund,community,revenue,federal,actual,24784,value,component,no,audit,audit:rsi-community,
+commrsi-revenue-total-original,community_rsi,2025,governmental_fund,community,revenue,total,original,3875513,value,total,no,audit,audit:rsi-community,
+commrsi-revenue-total-final,community_rsi,2025,governmental_fund,community,revenue,total,final,3780263,value,total,no,audit,audit:rsi-community,
+commrsi-revenue-total-actual,community_rsi,2025,governmental_fund,community,revenue,total,actual,4150196,value,total,no,audit,audit:rsi-community,
+commrsi-expenditure-total-original,community_rsi,2025,governmental_fund,community,expenditure,total,original,4227379,value,total,no,audit,audit:rsi-community,
+commrsi-expenditure-total-final,community_rsi,2025,governmental_fund,community,expenditure,total,final,3968176,value,total,no,audit,audit:rsi-community,
+commrsi-expenditure-total-actual,community_rsi,2025,governmental_fund,community,expenditure,total,actual,4070308,value,total,no,audit,audit:rsi-community,
+stat-2025-general_restricted-beginning_balance,statutory,2025,statutory_form,general_restricted,beginning_balance,total,actual,6663756,value,fund,no,statutory,statutory:ed-00110,Slice of the general fund. Gross inflows are not audited revenue.
+stat-2025-general_restricted-inflow,statutory,2025,statutory_form,general_restricted,inflow,total,actual,16114835,value,fund,no,statutory,statutory:ed-00110,Slice of the general fund. Gross inflows are not audited revenue.
+stat-2025-general_restricted-outflow,statutory,2025,statutory_form,general_restricted,outflow,total,actual,15502805,value,fund,no,statutory,statutory:ed-00110,Slice of the general fund. Gross inflows are not audited revenue.
+stat-2025-general_restricted-ending_balance,statutory,2025,statutory_form,general_restricted,ending_balance,total,actual,7275786,value,fund,no,statutory,statutory:ed-00110,Slice of the general fund. Gross inflows are not audited revenue.
+stat-2026-general_restricted-inflow,statutory,2026,statutory_form,general_restricted,inflow,total,budget,17288904,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-general_restricted-outflow,statutory,2026,statutory_form,general_restricted,outflow,total,budget,18373906,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-general_restricted-ending_balance,statutory,2026,statutory_form,general_restricted,ending_balance,total,budget,6190784,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-general_other-beginning_balance,statutory,2025,statutory_form,general_other,beginning_balance,total,actual,15715427,value,fund,no,statutory,statutory:ed-00110,Slice of the general fund. Gross inflows are not audited revenue.
+stat-2025-general_other-inflow,statutory,2025,statutory_form,general_other,inflow,total,actual,79970390,value,fund,no,statutory,statutory:ed-00110,Slice of the general fund. Gross inflows are not audited revenue.
+stat-2025-general_other-outflow,statutory,2025,statutory_form,general_other,outflow,total,actual,80751698,value,fund,no,statutory,statutory:ed-00110,Slice of the general fund. Gross inflows are not audited revenue.
+stat-2025-general_other-ending_balance,statutory,2025,statutory_form,general_other,ending_balance,total,actual,14934119,value,fund,no,statutory,statutory:ed-00110,Slice of the general fund. Gross inflows are not audited revenue.
+stat-2026-general_other-inflow,statutory,2026,statutory_form,general_other,inflow,total,budget,80858815,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-general_other-outflow,statutory,2026,statutory_form,general_other,outflow,total,budget,82991489,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-general_other-ending_balance,statutory,2026,statutory_form,general_other,ending_balance,total,budget,12801445,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-food-beginning_balance,statutory,2025,statutory_form,food,beginning_balance,total,actual,1186951,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-food-inflow,statutory,2025,statutory_form,food,inflow,total,actual,4816893,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-food-outflow,statutory,2025,statutory_form,food,outflow,total,actual,4852316,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-food-ending_balance,statutory,2025,statutory_form,food,ending_balance,total,actual,1151529,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-food-inflow,statutory,2026,statutory_form,food,inflow,total,budget,4785500,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-food-outflow,statutory,2026,statutory_form,food,outflow,total,budget,4846883,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-food-ending_balance,statutory,2026,statutory_form,food,ending_balance,total,budget,1090146,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-community-beginning_balance,statutory,2025,statutory_form,community,beginning_balance,total,actual,1648678,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-community-inflow,statutory,2025,statutory_form,community,inflow,total,actual,4150195,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-community-outflow,statutory,2025,statutory_form,community,outflow,total,actual,4070307,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-community-ending_balance,statutory,2025,statutory_form,community,ending_balance,total,actual,1728566,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-community-inflow,statutory,2026,statutory_form,community,inflow,total,budget,4254072,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-community-outflow,statutory,2026,statutory_form,community,outflow,total,budget,3998158,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-community-ending_balance,statutory,2026,statutory_form,community,ending_balance,total,budget,1984480,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-building-beginning_balance,statutory,2025,statutory_form,building,beginning_balance,total,actual,4069837,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-building-inflow,statutory,2025,statutory_form,building,inflow,total,actual,162593,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-building-outflow,statutory,2025,statutory_form,building,outflow,total,actual,1327868,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-building-ending_balance,statutory,2025,statutory_form,building,ending_balance,total,actual,2904562,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-building-inflow,statutory,2026,statutory_form,building,inflow,total,budget,75000,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-building-outflow,statutory,2026,statutory_form,building,outflow,total,budget,1414500,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-building-ending_balance,statutory,2026,statutory_form,building,ending_balance,total,budget,1565062,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-debt-beginning_balance,statutory,2025,statutory_form,debt,beginning_balance,total,actual,3197272,value,fund,no,statutory,statutory:ed-00110,Does not include OPEB debt service. The audit debt column does.
+stat-2025-debt-inflow,statutory,2025,statutory_form,debt,inflow,total,actual,17169705,value,fund,no,statutory,statutory:ed-00110,Does not include OPEB debt service. The audit debt column does.
+stat-2025-debt-outflow,statutory,2025,statutory_form,debt,outflow,total,actual,16379225,value,fund,no,statutory,statutory:ed-00110,Does not include OPEB debt service. The audit debt column does.
+stat-2025-debt-ending_balance,statutory,2025,statutory_form,debt,ending_balance,total,actual,3987751,value,fund,no,statutory,statutory:ed-00110,Does not include OPEB debt service. The audit debt column does.
+stat-2026-debt-inflow,statutory,2026,statutory_form,debt,inflow,total,budget,15190081,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-debt-outflow,statutory,2026,statutory_form,debt,outflow,total,budget,14649088,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-debt-ending_balance,statutory,2026,statutory_form,debt,ending_balance,total,budget,4528744,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-trust-beginning_balance,statutory,2025,statutory_form,trust,beginning_balance,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2025-trust-inflow,statutory,2025,statutory_form,trust,inflow,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2025-trust-outflow,statutory,2025,statutory_form,trust,outflow,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2025-trust-ending_balance,statutory,2025,statutory_form,trust,ending_balance,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2026-trust-inflow,statutory,2026,statutory_form,trust,inflow,total,budget,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2026-trust-outflow,statutory,2026,statutory_form,trust,outflow,total,budget,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2026-trust-ending_balance,statutory,2026,statutory_form,trust,ending_balance,total,budget,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2025-opeb_revocable-beginning_balance,statutory,2025,statutory_form,opeb_revocable,beginning_balance,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2025-opeb_revocable-inflow,statutory,2025,statutory_form,opeb_revocable,inflow,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2025-opeb_revocable-outflow,statutory,2025,statutory_form,opeb_revocable,outflow,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2025-opeb_revocable-ending_balance,statutory,2025,statutory_form,opeb_revocable,ending_balance,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2026-opeb_revocable-inflow,statutory,2026,statutory_form,opeb_revocable,inflow,total,budget,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2026-opeb_revocable-outflow,statutory,2026,statutory_form,opeb_revocable,outflow,total,budget,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2026-opeb_revocable-ending_balance,statutory,2026,statutory_form,opeb_revocable,ending_balance,total,budget,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash, treated as zero on the form."
+stat-2025-opeb_irrevocable-beginning_balance,statutory,2025,statutory_form,opeb_irrevocable,beginning_balance,total,actual,15941771,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-opeb_irrevocable-inflow,statutory,2025,statutory_form,opeb_irrevocable,inflow,total,actual,1354753,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-opeb_irrevocable-outflow,statutory,2025,statutory_form,opeb_irrevocable,outflow,total,actual,2445487,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-opeb_irrevocable-ending_balance,statutory,2025,statutory_form,opeb_irrevocable,ending_balance,total,actual,14851038,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-opeb_irrevocable-inflow,statutory,2026,statutory_form,opeb_irrevocable,inflow,total,budget,1000000,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-opeb_irrevocable-outflow,statutory,2026,statutory_form,opeb_irrevocable,outflow,total,budget,2580389,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-opeb_irrevocable-ending_balance,statutory,2026,statutory_form,opeb_irrevocable,ending_balance,total,budget,13270649,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-opeb_debt-beginning_balance,statutory,2025,statutory_form,opeb_debt,beginning_balance,total,actual,617873,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-opeb_debt-inflow,statutory,2025,statutory_form,opeb_debt,inflow,total,actual,34788,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-opeb_debt-outflow,statutory,2025,statutory_form,opeb_debt,outflow,total,actual,0,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-opeb_debt-ending_balance,statutory,2025,statutory_form,opeb_debt,ending_balance,total,actual,652662,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-opeb_debt-inflow,statutory,2026,statutory_form,opeb_debt,inflow,total,budget,20000,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-opeb_debt-outflow,statutory,2026,statutory_form,opeb_debt,outflow,total,budget,0,value,fund,no,statutory,statutory:ed-00110,
+stat-2026-opeb_debt-ending_balance,statutory,2026,statutory_form,opeb_debt,ending_balance,total,budget,672662,value,fund,no,statutory,statutory:ed-00110,
+stat-2025-internal-beginning_balance,statutory,2025,statutory_form,internal,beginning_balance,total,actual,10672383,value,fund,no,statutory,statutory:ed-00110,Activity columns are blank. Ending dashes are not the audited net position.
+stat-2025-internal-inflow,statutory,2025,statutory_form,internal,inflow,total,actual,,blank,fund,no,statutory,statutory:ed-00110,Not printed.
+stat-2025-internal-outflow,statutory,2025,statutory_form,internal,outflow,total,actual,,blank,fund,no,statutory,statutory:ed-00110,Not printed.
+stat-2025-internal-ending_balance,statutory,2025,statutory_form,internal,ending_balance,total,actual,,dash,fund,no,statutory,statutory:ed-00110,"Printed dash. Audit net position is 9558253, in the memo statement."
+stat-2026-internal-inflow,statutory,2026,statutory_form,internal,inflow,total,budget,,blank,fund,no,statutory,statutory:ed-00110,Not printed.
+stat-2026-internal-outflow,statutory,2026,statutory_form,internal,outflow,total,budget,,blank,fund,no,statutory,statutory:ed-00110,Not printed.
+stat-2026-internal-ending_balance,statutory,2026,statutory_form,internal,ending_balance,total,budget,,dash,fund,no,statutory,statutory:ed-00110,Printed dash.
+stat-2025-published-beginning_balance,statutory,2025,statutory_form,published_total,beginning_balance,total,actual,59713949,value,published_total,no,statutory,statutory:ed-00110,Printed total. Do not use as district income or spending.
+stat-2025-published-inflow,statutory,2025,statutory_form,published_total,inflow,total,actual,123774152,value,published_total,no,statutory,statutory:ed-00110,Printed total. Do not use as district income or spending.
+stat-2025-published-outflow,statutory,2025,statutory_form,published_total,outflow,total,actual,125329705,value,published_total,no,statutory,statutory:ed-00110,Printed total. Do not use as district income or spending.
+stat-2025-published-ending_balance,statutory,2025,statutory_form,published_total,ending_balance,total,actual,47486013,value,published_total,no,statutory,statutory:ed-00110,Printed total. Do not use as district income or spending.
+stat-2026-published-inflow,statutory,2026,statutory_form,published_total,inflow,total,budget,123472372,value,published_total,no,statutory,statutory:ed-00110,Printed total. Do not use as district income or spending.
+stat-2026-published-outflow,statutory,2026,statutory_form,published_total,outflow,total,budget,128854413,value,published_total,no,statutory,statutory:ed-00110,Printed total. Do not use as district income or spending.
+stat-2026-published-ending_balance,statutory,2026,statutory_form,published_total,ending_balance,total,budget,42103972,value,published_total,no,statutory,statutory:ed-00110,Printed total. Do not use as district income or spending.
+fy27-general-beginning_balance,fy2027,2027,adopted_budget,general,beginning_balance,total,adopted,21783758,value,fund,no,fy2027,snapshot:fy2027-referendum,Does not chain from the FY2026 statutory projected ending balance.
+fy27-general-revenue,fy2027,2027,adopted_budget,general,revenue,total,adopted,98130193,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-general-expenditure,fy2027,2027,adopted_budget,general,expenditure,total,adopted,101462690,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-general-excess,fy2027,2027,adopted_budget,general,excess,total,adopted,-3332497,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-general-ending_balance,fy2027,2027,adopted_budget,general,ending_balance,total,adopted,18451261,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-food-beginning_balance,fy2027,2027,adopted_budget,food,beginning_balance,total,adopted,817784,value,fund,no,fy2027,snapshot:fy2027-referendum,Does not chain from the FY2026 statutory projected ending balance.
+fy27-food-revenue,fy2027,2027,adopted_budget,food,revenue,total,adopted,4745500,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-food-expenditure,fy2027,2027,adopted_budget,food,expenditure,total,adopted,5146107,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-food-excess,fy2027,2027,adopted_budget,food,excess,total,adopted,-400607,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-food-ending_balance,fy2027,2027,adopted_budget,food,ending_balance,total,adopted,417177,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-community-beginning_balance,fy2027,2027,adopted_budget,community,beginning_balance,total,adopted,1800108,value,fund,no,fy2027,snapshot:fy2027-referendum,Does not chain from the FY2026 statutory projected ending balance.
+fy27-community-revenue,fy2027,2027,adopted_budget,community,revenue,total,adopted,3961530,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-community-expenditure,fy2027,2027,adopted_budget,community,expenditure,total,adopted,4334964,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-community-excess,fy2027,2027,adopted_budget,community,excess,total,adopted,-373434,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-community-ending_balance,fy2027,2027,adopted_budget,community,ending_balance,total,adopted,1426674,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-building-beginning_balance,fy2027,2027,adopted_budget,building,beginning_balance,total,adopted,1565062,value,fund,no,fy2027,snapshot:fy2027-referendum,Does not chain from the FY2026 statutory projected ending balance.
+fy27-building-revenue,fy2027,2027,adopted_budget,building,revenue,total,adopted,50000,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-building-expenditure,fy2027,2027,adopted_budget,building,expenditure,total,adopted,800800,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-building-excess,fy2027,2027,adopted_budget,building,excess,total,adopted,-750800,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-building-ending_balance,fy2027,2027,adopted_budget,building,ending_balance,total,adopted,814262,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-debt-beginning_balance,fy2027,2027,adopted_budget,debt,beginning_balance,total,adopted,10678294,value,fund,no,fy2027,snapshot:fy2027-referendum,Does not chain from the FY2026 statutory projected ending balance.
+fy27-debt-revenue,fy2027,2027,adopted_budget,debt,revenue,total,adopted,16146351,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-debt-expenditure,fy2027,2027,adopted_budget,debt,expenditure,total,adopted,18579369,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-debt-excess,fy2027,2027,adopted_budget,debt,excess,total,adopted,-2433018,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-debt-ending_balance,fy2027,2027,adopted_budget,debt,ending_balance,total,adopted,8245276,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-opeb_trust-beginning_balance,fy2027,2027,adopted_budget,opeb_trust,beginning_balance,total,adopted,13297649,value,fund,no,fy2027,snapshot:fy2027-referendum,Does not chain from the FY2026 statutory projected ending balance.
+fy27-opeb_trust-revenue,fy2027,2027,adopted_budget,opeb_trust,revenue,total,adopted,1000000,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-opeb_trust-expenditure,fy2027,2027,adopted_budget,opeb_trust,expenditure,total,adopted,2571187,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-opeb_trust-excess,fy2027,2027,adopted_budget,opeb_trust,excess,total,adopted,-1571187,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-opeb_trust-ending_balance,fy2027,2027,adopted_budget,opeb_trust,ending_balance,total,adopted,11726462,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-opeb_debt-beginning_balance,fy2027,2027,adopted_budget,opeb_debt,beginning_balance,total,adopted,677662,value,fund,no,fy2027,snapshot:fy2027-referendum,Does not chain from the FY2026 statutory projected ending balance.
+fy27-opeb_debt-revenue,fy2027,2027,adopted_budget,opeb_debt,revenue,total,adopted,26050,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-opeb_debt-expenditure,fy2027,2027,adopted_budget,opeb_debt,expenditure,total,adopted,0,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-opeb_debt-excess,fy2027,2027,adopted_budget,opeb_debt,excess,total,adopted,26050,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-opeb_debt-ending_balance,fy2027,2027,adopted_budget,opeb_debt,ending_balance,total,adopted,703712,value,fund,no,fy2027,snapshot:fy2027-referendum,
+fy27-published-beginning_balance,fy2027,2027,adopted_budget,published_total,beginning_balance,total,adopted,50620317,value,published_total,no,fy2027,snapshot:fy2027-referendum,Includes the OPEB trust. Not comparable to FY2025 governmental-fund revenue.
+fy27-published-revenue,fy2027,2027,adopted_budget,published_total,revenue,total,adopted,124059624,value,published_total,no,fy2027,snapshot:fy2027-referendum,Includes the OPEB trust. Not comparable to FY2025 governmental-fund revenue.
+fy27-published-expenditure,fy2027,2027,adopted_budget,published_total,expenditure,total,adopted,132895117,value,published_total,no,fy2027,snapshot:fy2027-referendum,Includes the OPEB trust. Not comparable to FY2025 governmental-fund revenue.
+fy27-published-excess,fy2027,2027,adopted_budget,published_total,excess,total,adopted,-8835493,value,published_total,no,fy2027,snapshot:fy2027-referendum,Includes the OPEB trust. Not comparable to FY2025 governmental-fund revenue.
+fy27-published-ending_balance,fy2027,2027,adopted_budget,published_total,ending_balance,total,adopted,41784824,value,published_total,no,fy2027,snapshot:fy2027-referendum,Includes the OPEB trust. Not comparable to FY2025 governmental-fund revenue.
+memo-internal-revenue,memo,2025,memo_excluded,internal,revenue,total,actual,15960024,value,memo,no,audit,audit:ufars-compliance,Already charged to other funds. Excluded from district income.
+memo-internal-expenditure,memo,2025,memo_excluded,internal,expenditure,total,actual,17074153,value,memo,no,audit,audit:ufars-compliance,UFARS expenditures are 17074154. Excluded from district spending.
+memo-internal-net-position,memo,2025,memo_excluded,internal,ending_balance,net_position,actual,9558253,value,memo,no,audit,audit:ufars-compliance,"Statutory form shows a dash, not this balance."
+memo-custodial-revenue,memo,2025,memo_excluded,custodial,revenue,total,actual,4487467,value,memo,no,audit,audit:ufars-compliance,Fiduciary. Excluded from district income.
+memo-custodial-expenditure,memo,2025,memo_excluded,custodial,expenditure,total,actual,4517751,value,memo,no,audit,audit:ufars-compliance,Fiduciary. Excluded from district spending.
+x-2025-general-administration,spend_cross,2025,governmental_fund,general,expenditure,administration,actual,3495865,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-district_support,spend_cross,2025,governmental_fund,general,expenditure,district_support,actual,2715457,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-regular_instruction,spend_cross,2025,governmental_fund,general,expenditure,regular_instruction,actual,36036654,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-vocational,spend_cross,2025,governmental_fund,general,expenditure,vocational,actual,1645808,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-special_education,spend_cross,2025,governmental_fund,general,expenditure,special_education,actual,26570297,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-instructional_support,spend_cross,2025,governmental_fund,general,expenditure,instructional_support,actual,4737508,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-pupil_support,spend_cross,2025,governmental_fund,general,expenditure,pupil_support,actual,7690291,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-sites_and_buildings,spend_cross,2025,governmental_fund,general,expenditure,sites_and_buildings,actual,9716466,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-fiscal,spend_cross,2025,governmental_fund,general,expenditure,fiscal,actual,541664,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-capital_outlay,spend_cross,2025,governmental_fund,general,expenditure,capital_outlay,actual,891609,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-debt_principal,spend_cross,2025,governmental_fund,general,expenditure,debt_principal,actual,1491536,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-general-debt_interest,spend_cross,2025,governmental_fund,general,expenditure,debt_interest,actual,352447,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-food-food_service,spend_cross,2025,governmental_fund,food,expenditure,food_service,actual,4852316,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-community-community_service,spend_cross,2025,governmental_fund,community,expenditure,community_service,actual,4053537,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-community-capital_outlay,spend_cross,2025,governmental_fund,community,expenditure,capital_outlay,actual,16771,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-building-sites_and_buildings,spend_cross,2025,governmental_fund,building,expenditure,sites_and_buildings,actual,810873,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-building-capital_outlay,spend_cross,2025,governmental_fund,building,expenditure,capital_outlay,actual,516995,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-debt-debt_principal,spend_cross,2025,governmental_fund,debt,expenditure,debt_principal,actual,8260000,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+x-2025-debt-debt_interest,spend_cross,2025,governmental_fund,debt,expenditure,debt_interest,actual,8119226,value,component,no,audit,audit:governmental-funds,Nonzero cell on the FY2025 governmental-funds statement. Not a second copy of the function total.
+sefa-2025-usda_commodities_nslp,sefa,2025,federal_award,all,expenditure,usda_commodities_nslp,actual,244562,value,component,no,audit,audit:sefa,ALN 10.555. Noncash commodities.
+sefa-2025-usda_breakfast,sefa,2025,federal_award,all,expenditure,usda_breakfast,actual,488326,value,component,no,audit,audit:sefa,ALN 10.553.
+sefa-2025-usda_nslp_cash,sefa,2025,federal_award,all,expenditure,usda_nslp_cash,actual,1871869,value,component,no,audit,audit:sefa,ALN 10.555. Cash assistance.
+sefa-2025-usda_snack,sefa,2025,federal_award,all,expenditure,usda_snack,actual,33567,value,component,no,audit,audit:sefa,ALN 10.555.
+sefa-2025-usda_summer,sefa,2025,federal_award,all,expenditure,usda_summer,actual,39530,value,component,no,audit,audit:sefa,ALN 10.559.
+sefa-2025-usda_ffvp,sefa,2025,federal_award,all,expenditure,usda_ffvp,actual,62019,value,component,no,audit,audit:sefa,ALN 10.582.
+sefa-2025-usda_state_admin,sefa,2025,federal_award,all,expenditure,usda_state_admin,actual,12748,value,component,no,audit,audit:sefa,ALN 10.560. Outside the child-nutrition cluster.
+sefa-2025-usda_farm_to_school,sefa,2025,federal_award,all,expenditure,usda_farm_to_school,actual,50464,value,component,no,audit,audit:sefa,ALN 10.569. Passed through the Minnesota Department of Agriculture.
+sefa-2025-ed_adult_basic,sefa,2025,federal_award,all,expenditure,ed_adult_basic,actual,12614,value,component,no,audit,audit:sefa,ALN 84.002.
+sefa-2025-ed_nonexclusionary,sefa,2025,federal_award,all,expenditure,ed_nonexclusionary,actual,7090,value,component,no,audit,audit:sefa,ALN 84.027. Passed through the Minnesota Department of Education.
+sefa-2025-ed_title_ii,sefa,2025,federal_award,all,expenditure,ed_title_ii,actual,156281,value,component,no,audit,audit:sefa,ALN 84.367.
+sefa-2025-ed_title_vii,sefa,2025,federal_award,all,expenditure,ed_title_vii,actual,27302,value,component,no,audit,audit:sefa,ALN 84.060.
+sefa-2025-ed_title_i_a,sefa,2025,federal_award,all,expenditure,ed_title_i_a,actual,1393945,value,component,no,audit,audit:sefa,ALN 84.010.
+sefa-2025-ed_title_i_d,sefa,2025,federal_award,all,expenditure,ed_title_i_d,actual,102426,value,component,no,audit,audit:sefa,ALN 84.010.
+sefa-2025-ed_esser_iii,sefa,2025,federal_award,all,expenditure,ed_esser_iii,actual,734384,value,component,no,audit,audit:sefa,ALN 84.425U. Current-year line. Not the printed ALN total of 3978695.
+sefa-2025-ed_esser_learning_loss,sefa,2025,federal_award,all,expenditure,ed_esser_learning_loss,actual,70788,value,component,no,audit,audit:sefa,ALN 84.425U. Current-year line. Not the printed ALN total of 3978695.
+sefa-2025-ed_sped,sefa,2025,federal_award,all,expenditure,ed_sped,actual,429090,value,component,no,audit,audit:sefa,ALN 84.027. Passed through Paul Bunyan Education Co-op.
+sefa-2025-ed_sped_low_incidence,sefa,2025,federal_award,all,expenditure,ed_sped_low_incidence,actual,5551,value,component,no,audit,audit:sefa,ALN 84.027. Passed through Paul Bunyan Education Co-op.
+sefa-2025-ed_sped_cspd,sefa,2025,federal_award,all,expenditure,ed_sped_cspd,actual,6792,value,component,no,audit,audit:sefa,ALN 84.027. Passed through Paul Bunyan Education Co-op.
+sefa-2025-ed_perkins_vocational,sefa,2025,federal_award,all,expenditure,ed_perkins_vocational,actual,9044,value,component,no,audit,audit:sefa,ALN 84.048. Passed through Freshwater Education District.
+sefa-2025-ed_perkins_cte,sefa,2025,federal_award,all,expenditure,ed_perkins_cte,actual,6924,value,component,no,audit,audit:sefa,ALN 84.048. Passed through Freshwater Education District.
+sefa-2025-total,sefa,2025,federal_award,all,expenditure,total,actual,5765316,value,total,no,audit,audit:sefa,Modified-accrual federal-award expenditures. 300 above governmental-fund federal revenue. The printed ALN 84.425 total of 3978695 is not this total.
+bud-2025-general-unassigned,budget_restriction,2025,budget_book,general,expenditure,unassigned,final,80862894,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-assigned_other,budget_restriction,2025,budget_book,general,expenditure,assigned_other,final,48278,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-assigned_qcomp,budget_restriction,2025,budget_book,general,expenditure,assigned_qcomp,final,1575824,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-nonspendable,budget_restriction,2025,budget_book,general,expenditure,nonspendable,final,0,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-restricted,budget_restriction,2025,budget_book,general,expenditure,restricted,final,0,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-alternative_learning,budget_restriction,2025,budget_book,general,expenditure,alternative_learning,final,1703598,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-basic_skills,budget_restriction,2025,budget_book,general,expenditure,basic_skills,final,5685098,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-english_learner,budget_restriction,2025,budget_book,general,expenditure,english_learner,final,291678,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-gifted,budget_restriction,2025,budget_book,general,expenditure,gifted,final,585156,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-learning_development,budget_restriction,2025,budget_book,general,expenditure,learning_development,final,1148015,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-literacy_aid,budget_restriction,2025,budget_book,general,expenditure,literacy_aid,final,0,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-literacy_incentive,budget_restriction,2025,budget_book,general,expenditure,literacy_incentive,final,162094,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-ltfm,budget_restriction,2025,budget_book,general,expenditure,ltfm,final,1942269,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-medical_assistance,budget_restriction,2025,budget_book,general,expenditure,medical_assistance,final,357407,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-operating_capital,budget_restriction,2025,budget_book,general,expenditure,operating_capital,final,1645389,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-safe_schools,budget_restriction,2025,budget_book,general,expenditure,safe_schools,final,293280,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-school_library,budget_restriction,2025,budget_book,general,expenditure,school_library,final,142284,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-staff_development,budget_restriction,2025,budget_book,general,expenditure,staff_development,final,1271641,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-student_activities,budget_restriction,2025,budget_book,general,expenditure,student_activities,final,250000,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-student_support,budget_restriction,2025,budget_book,general,expenditure,student_support,final,82606,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-read_act,budget_restriction,2025,budget_book,general,expenditure,read_act,final,218922,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-food-nonspendable,budget_restriction,2025,budget_book,food,expenditure,nonspendable,final,0,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-food-restricted,budget_restriction,2025,budget_book,food,expenditure,restricted,final,5089834,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-community-nonspendable,budget_restriction,2025,budget_book,community,expenditure,nonspendable,final,0,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-community-restricted,budget_restriction,2025,budget_book,community,expenditure,restricted,final,219796,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-community-adult_basic,budget_restriction,2025,budget_book,community,expenditure,adult_basic,final,299342,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-community-community_service,budget_restriction,2025,budget_book,community,expenditure,community_service,final,2401702,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-community-ecfe,budget_restriction,2025,budget_book,community,expenditure,ecfe,final,600319,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-community-school_readiness,budget_restriction,2025,budget_book,community,expenditure,school_readiness,final,447017,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-building-nonspendable,budget_restriction,2025,budget_book,building,expenditure,nonspendable,final,0,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-building-restricted,budget_restriction,2025,budget_book,building,expenditure,restricted,final,1003291,value,component,no,preliminary,prelim:fy2025-revised,FY2025 first revised budget. Not actual spending.
+bud-2025-general-total,budget_restriction,2025,budget_book,general,expenditure,total,final,98266433,value,total,no,preliminary,prelim:fy2025-revised,Printed fund total in the FY2025 revised budget. Not actual spending.
+bud-2025-food-total,budget_restriction,2025,budget_book,food,expenditure,total,final,5089834,value,total,no,preliminary,prelim:fy2025-revised,Printed fund total in the FY2025 revised budget. Not actual spending.
+bud-2025-community-total,budget_restriction,2025,budget_book,community,expenditure,total,final,3968176,value,total,no,preliminary,prelim:fy2025-revised,Printed fund total in the FY2025 revised budget. Not actual spending.
+bud-2025-building-total,budget_restriction,2025,budget_book,building,expenditure,total,final,1003291,value,total,no,preliminary,prelim:fy2025-revised,Printed fund total in the FY2025 revised budget. Not actual spending.
+bud-2025-debt-total,budget_restriction,2025,budget_book,debt,expenditure,total,final,16386638,value,total,no,preliminary,prelim:fy2025-revised,Printed fund total in the FY2025 revised budget. Not actual spending.
+bud-2025-opeb_trust-total,budget_restriction,2025,budget_book,opeb_trust,expenditure,total,final,2419011,value,total,no,preliminary,prelim:fy2025-revised,"Outside the governmental-fund headline. Revised budget, not actual."
+memo-opeb-trust-expenditure,memo,2025,memo_excluded,opeb_trust,expenditure,total,actual,2445486,value,memo,no,audit,audit:ufars-compliance,"UFARS irrevocable-trust expenditures. Outside the governmental-fund headline. UFARS is 2445487, one dollar higher. The audited figure is not adjusted."

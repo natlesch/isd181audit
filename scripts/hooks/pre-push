@@ -1,0 +1,21 @@
+#!/bin/sh
+# Block a push when gitleaks finds a secret, then run the Beads pre-push hook.
+set -e
+cd "$(git rev-parse --show-toplevel)"
+
+if [ -n "${GITLEAKS:-}" ]; then
+  leaks="$GITLEAKS"
+elif command -v gitleaks >/dev/null 2>&1; then
+  leaks=gitleaks
+elif [ -x "$HOME/.local/bin/gitleaks" ]; then
+  leaks="$HOME/.local/bin/gitleaks"
+else
+  echo "gitleaks not found; refusing to push" >&2
+  exit 1
+fi
+
+"$leaks" detect --source . --verbose --no-banner
+
+if [ -x .beads/hooks/pre-push ]; then
+  exec .beads/hooks/pre-push "$@"
+fi

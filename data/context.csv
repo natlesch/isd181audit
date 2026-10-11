@@ -1,0 +1,19 @@
+metric,fiscal_year,amount,unit,source_id,locator,detail
+adm_for_aid,2016,6446,students,audit,audit:md&a-table-a4,Total students for aid
+adm_for_aid,2017,6533,students,audit,audit:md&a-table-a4,
+adm_for_aid,2018,6567,students,audit,audit:md&a-table-a4,
+adm_for_aid,2019,6538,students,audit,audit:md&a-table-a4,
+adm_for_aid,2020,6528,students,audit,audit:md&a-table-a4,
+adm_for_aid,2021,6170,students,audit,audit:md&a-table-a4,
+adm_for_aid,2022,6101,students,audit,audit:md&a-table-a4,
+adm_for_aid,2023,6007,students,audit,audit:md&a-table-a4,
+adm_for_aid,2024,5848,students,audit,audit:md&a-table-a4,
+adm_for_aid,2025,5676,students,audit,audit:md&a-table-a4,Not the ADM used for operating cost per student
+operating_expenditures,2025,101199586.45,usd,statutory,statutory:ed-00110,"MDE operating-cost definition, not the sum of governmental-fund expenditures"
+operating_adm,2025,5790.21,students,statutory,statutory:ed-00110,Served plus tuitioned out plus adjusted extended ADM
+operating_cost_per_adm,2025,17477.71,usd,statutory,statutory:ed-00110,Rounded rate. Rate times ADM is 24.77 above the published expenditure
+long_term_debt_outstanding,2024,216281896,usd,statutory,statutory:ed-00110,"Outstanding July 1, 2024"
+long_term_debt_issued,2025,397010,usd,statutory,statutory:ed-00110,
+long_term_debt_redeemed,2025,9751536,usd,statutory,statutory:ed-00110,Form spells the row Redemeed. Beg plus issued minus redeemed is 1 dollar above the printed June 30 balance
+long_term_debt_outstanding,2025,206927369,usd,statutory,statutory:ed-00110,
+statutory_operating_debt,2025,0,usd,statutory,statutory:ed-00110,General fund deficit in excess of 2.5 percent of expenditures is a printed dash

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "key": "epic",
+      "title": "Track Brainerd ISD 181 income and spending",
+      "type": "epic",
+      "priority": 1,
+      "description": "Local source-cited tracker. Spec is docs/PLAN.md. Close only after every child is closed with evidence."
+    },
+    {
+      "key": "plan",
+      "title": "Lock the plan and the ledger extract",
+      "type": "decision",
+      "priority": 1,
+      "parent_key": "epic",
+      "labels": ["plan"],
+      "description": "docs/PLAN.md, data/lines.csv, data/context.csv, and data/sources.csv exist. Two read-only skeptics must find no blocker before this is closed."
+    },
+    {
+      "key": "build",
+      "title": "Implement the ledger, checks, and report",
+      "type": "task",
+      "priority": 1,
+      "parent_key": "epic",
+      "labels": ["build"],
+      "description": "Follow the Build contract in docs/PLAN.md. Acceptance: PYTHONPATH=src python3 -m unittest discover -s tests -v passes, and python3 -m isd181 writes both output files."
+    },
+    {
+      "key": "review",
+      "title": "Adversarial review of the report",
+      "type": "task",
+      "priority": 1,
+      "parent_key": "epic",
+      "labels": ["review"],
+      "description": "Reviewer runs the tests and cannot show a headline that mixes internal service, custodial funds, government-wide expenses, or statutory inflows into the governmental-fund total."
+    },
+    {
+      "key": "closeout",
+      "title": "Close out with evidence",
+      "type": "task",
+      "priority": 1,
+      "parent_key": "epic",
+      "labels": ["closeout"],
+      "description": "Close plan, build, and review with evidence, then close this bead, then close the epic."
+    }
+  ],
+  "edges": [
+    {"from_key": "build", "to_key": "plan", "type": "blocks"},
+    {"from_key": "review", "to_key": "build", "type": "blocks"},
+    {"from_key": "closeout", "to_key": "review", "type": "blocks"}
+  ]
+}
